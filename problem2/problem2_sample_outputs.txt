@@ -1,0 +1,925 @@
+
+
+MODEL: {'model_type': 'LSTM', 'seq_len': 20, 'hidden_size': 128, 'num_layers': 1, 'fc_size': None}
+TRAIN LOSS: 1.4397
+VAL ACC: 0.5567
+SAMPLE OUTPUT:
+To be or not to best uny black the brotherly first rebers child,
+That thy death; I say was thy freely such hath new so.
+
+ANGELO:
+Not would not shall be reasone
+To joy the sort, possess a child content
+Thee;
+For him repusta to Romeo chier in
+thy freellomas, as her 'twas-arm me.
+No. Come, sueful of by your poss with li
+
+
+
+MODEL: {'model_type': 'LSTM', 'seq_len': 20, 'hidden_size': 128, 'num_layers': 1, 'fc_size': 128}
+TRAIN LOSS: 1.3923
+VAL ACC: 0.5651
+SAMPLE OUTPUT:
+To be or not to be means, and himself honest high.
+
+Second Citizen:
+
+CLIFFORD:
+I do not a sovereign lost,
+I monst the raults, and yet of sauce land
+Moth a queen, his name mistle ears: he should deceived:
+on well bick, the king's children hanging and to a wings enforce
+A mind in return unseen courarssligues,
+Come high
+
+
+
+MODEL: {'model_type': 'LSTM', 'seq_len': 20, 'hidden_size': 128, 'num_layers': 2, 'fc_size': None}
+TRAIN LOSS: 1.3702
+VAL ACC: 0.5728
+SAMPLE OUTPUT:
+To be or not to beat
+She I, sin our hopest in pettifter's hours of somewhoman I remidery soch his subjects, hath pride
+By returned thine lords to show quearicholation of the joys
+And but please a kinsman, the bold assured,
+Thus virtues want so some
+For France of the vulient seving whip your brother think
+Will them ge
+
+
+
+MODEL: {'model_type': 'LSTM', 'seq_len': 20, 'hidden_size': 128, 'num_layers': 2, 'fc_size': 128}
+TRAIN LOSS: 1.3570
+VAL ACC: 0.5709
+SAMPLE OUTPUT:
+To be or not to be hoe to them,
+Will see thee to Juesty.
+
+ABHORSON:
+Withdraw you and no counter, to more spoke.
+
+GRUMIO:
+Marry, Richard, trealing out my faces,
+Clarence I have wounds and somery of strangers?
+I say, profaned mine own hand.
+
+Second Murderer:
+Would to our lent,
+And show Willow York shoulder of her heari
+
+
+
+MODEL: {'model_type': 'LSTM', 'seq_len': 20, 'hidden_size': 256, 'num_layers': 1, 'fc_size': None}
+TRAIN LOSS: 1.3310
+VAL ACC: 0.5786
+SAMPLE OUTPUT:
+To be or not to before Pomfer!
+
+First Servingman:
+God daughter, Let it make:
+
+BUCKAST:
+Master Warwick doth end it.
+Yet slow your nature hate ither.
+
+BUCKINGHAM:
+'Tis study, leave the thimber their certeth o' the things deputy
+The wedly of the young of Norfolk's sancted:
+What cranketh, not yet call thee,
+As if, is rep
+
+
+
+MODEL: {'model_type': 'LSTM', 'seq_len': 20, 'hidden_size': 256, 'num_layers': 1, 'fc_size': 128}
+TRAIN LOSS: 1.3237
+VAL ACC: 0.5781
+SAMPLE OUTPUT:
+To be or not to besellafrough warly about hearing, yet not.
+
+PROSPERO:
+Give me thee please our lad unto the woe?' Come, hut lads; at she could say ond itself are curse, I know not another mine arts were mad; Angel need'st her timonate.
+
+Second Murderer:
+Sit power from my like: gentle friends 'our death, I'll do lick,
+
+
+
+MODEL: {'model_type': 'LSTM', 'seq_len': 20, 'hidden_size': 256, 'num_layers': 2, 'fc_size': None}
+TRAIN LOSS: 1.2871
+VAL ACC: 0.5835
+SAMPLE OUTPUT:
+To be or not to be thyself to't; and what will ho? when these' with him.
+
+First temper:
+Your King Presination; and odded
+your laise!' Vrade thee, comfort.
+
+Messenger: you have sone grant you hindnessles, give not Caius, Sir
+I hope our head to beside used the good reproides as sleep'd. Dost thou not to them,
+Let it ha
+
+
+
+MODEL: {'model_type': 'LSTM', 'seq_len': 20, 'hidden_size': 256, 'num_layers': 2, 'fc_size': 128}
+TRAIN LOSS: 1.3229
+VAL ACC: 0.5780
+SAMPLE OUTPUT:
+To be or not to be shop'st it sin before it; but sue
+Last on this banish, shoast'' rites unplost!
+
+MENENIUS:
+
+KING RICHARD II:
+To have you not become me: vence, and thou must I find it, in thine. And go.
+
+PROSPERO:
+A tears, Edward's crelewh! But there's saich, but
+Thou once then on to her interrupts hide?' what?
+
+BUC
+
+
+
+MODEL: {'model_type': 'LSTM', 'seq_len': 30, 'hidden_size': 128, 'num_layers': 1, 'fc_size': None}
+TRAIN LOSS: 1.4286
+VAL ACC: 0.5597
+SAMPLE OUTPUT:
+To be or not to been.
+
+JULIET:
+Were is gound of thal to have nincelt instruction;
+He offer charge thou and uncle to do any lives,
+And I am stir to known. You have achetite.
+
+First Musicier:
+They liege, which, commithe it that
+Imbon?
+
+LUCIO:
+Sir, and than merishate in thou ready doeen here!
+
+HENRY BAPPEY BiWALTHY:
+Hak
+
+
+
+MODEL: {'model_type': 'LSTM', 'seq_len': 30, 'hidden_size': 128, 'num_layers': 1, 'fc_size': 128}
+TRAIN LOSS: 1.3867
+VAL ACC: 0.5672
+SAMPLE OUTPUT:
+To be or not to be;
+Which seem thy wife, mayabley neck: so Capery!
+
+YORK:
+Go, drum in dear come, farewhis your own?
+
+ESCALUS:
+He darely unto the sails,
+Whose injust starl, nunery, the crock.
+
+Nour Depth too good, let me have:
+Would you'ld we scrase learnest,
+Would never not sheled with my mean:
+Jorn down not mend him
+
+
+
+MODEL: {'model_type': 'LSTM', 'seq_len': 30, 'hidden_size': 128, 'num_layers': 2, 'fc_size': None}
+TRAIN LOSS: 1.3589
+VAL ACC: 0.5731
+SAMPLE OUTPUT:
+To be or not to be.
+Stand, all joy throads, Marcius, but friar, indeed, man,
+He hath purer, to call saccions,
+Dethous pluck in the glass stare
+Of bact making up, thy loves of commander?
+
+Clown:
+Peace thy by judge: now Podolds see thymed.
+
+MIRANDA:
+I hope send thou my not purpers is nieves to these
+swornh'd enemieved;
+
+
+
+MODEL: {'model_type': 'LSTM', 'seq_len': 30, 'hidden_size': 128, 'num_layers': 2, 'fc_size': 128}
+TRAIN LOSS: 1.3490
+VAL ACC: 0.5766
+SAMPLE OUTPUT:
+To be or not to begun,
+Both forth. Ha, I would be limble midst backling, the clead his mind here.
+Murder indeed you? I keep the princely
+Romeo she has hewelves, than I touch thou talt hangle, fit he is remove is son,
+It can turnled frelch and forechess
+against thy that hatorm, I would not have it. Alack, wacces, drin
+
+
+
+MODEL: {'model_type': 'LSTM', 'seq_len': 30, 'hidden_size': 256, 'num_layers': 1, 'fc_size': None}
+TRAIN LOSS: 1.3178
+VAL ACC: 0.5800
+SAMPLE OUTPUT:
+To be or not to be that prithee.
+
+PRINCE EDWARD:
+What dares infect yourself, no story may fair
+Marry by you but known, al good instruments:
+My love and well and fight and glorned.
+
+BRAKENBURY:
+I'll make you of you; but far her lie,
+Ragually lives from shearing-stable.
+First, generall, stand, adieunchards; be so husba
+
+
+
+MODEL: {'model_type': 'LSTM', 'seq_len': 30, 'hidden_size': 256, 'num_layers': 1, 'fc_size': 128}
+TRAIN LOSS: 1.3054
+VAL ACC: 0.5833
+SAMPLE OUTPUT:
+To be or not to be put togeth any.
+
+KATHARINA:
+Feith these vagour: think or he that she feed
+On thy pounties of her to us, to Junaig.
+
+GLOUCESTER:
+You ask men; 'mought we aped, I am a throngling king's placket.
+
+First Cafities:
+
+DUKE OF AUMERLE:
+No, sweet friends for what I see.
+
+NATENGOLO:
+Why, my ready? O, tell how
+
+
+
+MODEL: {'model_type': 'LSTM', 'seq_len': 30, 'hidden_size': 256, 'num_layers': 2, 'fc_size': None}
+TRAIN LOSS: 1.2788
+VAL ACC: 0.5895
+SAMPLE OUTPUT:
+To be or not to be nativall.
+
+DUKE OF AUMERLE:
+Moves again to his kingful unaccupt, nor peer be a crown!
+And what aftly we't, deny, that was breathed, in me these bed;
+Our house--but heavy manyments he hath
+tash'd the heels, and for my spirit of Thomas of your
+block boot,
+When I come to seat; this king of Gloucomon h
+
+
+
+MODEL: {'model_type': 'LSTM', 'seq_len': 30, 'hidden_size': 256, 'num_layers': 2, 'fc_size': 128}
+TRAIN LOSS: 1.3208
+VAL ACC: 0.5832
+SAMPLE OUTPUT:
+To be or not to be Rites
+I neither, for Rivers, you will compoor.
+
+BRAKENBURY:
+Poor soft and pluting back.
+
+BENVOLIO:
+Aight Romans in years I am seem,
+To that Warwick will no which bestroided,
+Die the seave is ground.
+
+NORFOLK:
+The deashress fouler leans; stand me
+Than a weethooks are now.
+
+Clown:
+A violetag up, I se
+
+
+
+MODEL: {'model_type': 'LSTM', 'seq_len': 50, 'hidden_size': 128, 'num_layers': 1, 'fc_size': None}
+TRAIN LOSS: 1.4186
+VAL ACC: 0.5612
+SAMPLE OUTPUT:
+To be or not to be blany
+Inless many to slail more too in myself
+your very poor as in sequillains: soe.
+Keep the detty that come to hold of lost;
+And my death, to leen! 'Tirst in sweets,
+And no with the evese and as you no might me!
+Is it is not consint is boggdee.
+
+terst Sicans:
+Put a callew,
+My fourage give me to t
+
+
+
+MODEL: {'model_type': 'LSTM', 'seq_len': 50, 'hidden_size': 128, 'num_layers': 1, 'fc_size': 128}
+TRAIN LOSS: 1.3783
+VAL ACC: 0.5687
+SAMPLE OUTPUT:
+To be or not to be made.
+
+DUKE VINCENTIO:
+Ay, if aboves lord.
+
+QUEEN MARGARET:
+As on his from York? for this likeful forton
+To unso will may with receigntion.
+
+LADY ANNE:
+Sirrah, who, a iffard: Bullainm conditions,
+Jenvally lie worrity?
+
+ANGELO:
+I most be discens, whom what the fearful law.
+
+FRIAR LAURENCE:
+Thou, by 
+
+
+
+MODEL: {'model_type': 'LSTM', 'seq_len': 50, 'hidden_size': 128, 'num_layers': 2, 'fc_size': None}
+TRAIN LOSS: 1.3461
+VAL ACC: 0.5772
+SAMPLE OUTPUT:
+To be or not to be;
+Oven what I condel steep'd; not once have mas?
+
+TRANIO:
+Mastered.
+
+ESCALUS:
+And yet they sat, for heir hit, I'll know not trust,
+And there's love a two skuckle in them; nor I
+perceives it not spong it lose, if sucted have well
+The qualing of his tunedy unsince much
+tit a kill indeed: the more to d
+
+
+
+MODEL: {'model_type': 'LSTM', 'seq_len': 50, 'hidden_size': 128, 'num_layers': 2, 'fc_size': 128}
+TRAIN LOSS: 1.3284
+VAL ACC: 0.5821
+SAMPLE OUTPUT:
+To be or not to bed,
+Here shearch us so, finger we speak ploased might!
+
+VOLUMNIA:
+I crid are laid for these same hard above,
+Not fine his commercile to-night, quaines,
+But think thyself ut awakely, sir, all the daught
+Are not counterfect king's man beat, and make my guilty's
+saint power down.
+
+CAMILLO:
+Matter ears m
+
+
+
+MODEL: {'model_type': 'LSTM', 'seq_len': 50, 'hidden_size': 256, 'num_layers': 1, 'fc_size': None}
+TRAIN LOSS: 1.3072
+VAL ACC: 0.5826
+SAMPLE OUTPUT:
+To be or not to be
+Are procouril lay, but fortunes forget
+Unto these helps: O the aim of you,
+Bites father, at England to me:
+Yet may other thou hath by your father's fault:
+I am away my shorply or capt of unfert?
+Who is your head, and, that he knave those my
+sovency, what I wased in, to take it not taken.
+
+BUCKINGHA
+
+
+
+MODEL: {'model_type': 'LSTM', 'seq_len': 50, 'hidden_size': 256, 'num_layers': 1, 'fc_size': 128}
+TRAIN LOSS: 1.2961
+VAL ACC: 0.5836
+SAMPLE OUTPUT:
+To be or not to be,
+A gentleman, wissate, sir, letered's eyes,
+And have open in gentlewoman.
+
+Shepherd:
+Then make a thith father's will meet than overs;
+Let us wise your underssessaries.
+I shall bear to his landes, and ta'en,
+Against, mighty islave and easily of this?
+
+NORTHUMBERLAND:
+The tatigon is a joyful Lord's o
+
+
+
+MODEL: {'model_type': 'LSTM', 'seq_len': 50, 'hidden_size': 256, 'num_layers': 2, 'fc_size': None}
+TRAIN LOSS: 1.2647
+VAL ACC: 0.5931
+SAMPLE OUTPUT:
+To be or not to be
+doing our power.
+
+MENENIUS:
+Faudon, but his reputed and before him speed,
+And, why come to another Small sister,
+Have remember his hot but in hand all manner.
+My news.
+
+FLORIZEL:
+If but well; but is the hand, let me entreat
+Against them, nor I must the queen sanctuary;
+Now bring of his flatter nor 
+
+
+
+MODEL: {'model_type': 'LSTM', 'seq_len': 50, 'hidden_size': 256, 'num_layers': 2, 'fc_size': 128}
+TRAIN LOSS: 1.2751
+VAL ACC: 0.5907
+SAMPLE OUTPUT:
+To be or not to be
+worthy and moneiel that doth made that he told
+No thing not Angelo, whose enemies,
+It return with, could of such percordine's
+heor and revided, old wine! what is we serve
+I swallow him.
+
+EKCALUS:
+The lords me an unthought it wot me.
+
+ESCALUS:
+Look 'do to another part, or good ballad,
+That is nature
+
+
+
+MODEL: {'model_type': 'GRU', 'seq_len': 20, 'hidden_size': 128, 'num_layers': 1, 'fc_size': None}
+TRAIN LOSS: 1.4674
+VAL ACC: 0.5482
+SAMPLE OUTPUT:
+To be or not to be though I say
+That bids with a bridance
+Aforilest commal
+him he we younds before my line;
+And think turn him my brow me hull
+Will make the come came jount: ban the die at their father's parts, sir, the daughter fiervy did.
+
+FnIF Rid:
+On I will gonted by no bein,
+As more intime on: we'll methinks,
+An
+
+
+
+MODEL: {'model_type': 'GRU', 'seq_len': 20, 'hidden_size': 128, 'num_layers': 1, 'fc_size': 128}
+TRAIN LOSS: 1.4289
+VAL ACC: 0.5546
+SAMPLE OUTPUT:
+To be or not to bearous sment,
+Hut he say!
+I have well, wilt mayst garmit, with thee, Grdiber'd fine to me
+no loacpling.
+
+Lord:
+My bid you, that it will frown. Hark's nices!
+
+BUCKINGHAM:
+Will
+How will not to a sent a true and washing on you!
+The peopln'd's brother;
+Not by their gentling Cllaim,
+Whender save, behald a
+
+
+
+MODEL: {'model_type': 'GRU', 'seq_len': 20, 'hidden_size': 128, 'num_layers': 2, 'fc_size': None}
+TRAIN LOSS: 1.4128
+VAL ACC: 0.5600
+SAMPLE OUTPUT:
+To be or not to be?
+There present you be raised is that did
+great worst, and the scipe out away;
+There is the words, but Sembrar CAzINRUS!
+
+ANGELO:
+Come theirs once dinfly of York and town both within cray crup and betrim.
+
+DUKE OF OFION:
+Knotice me she did day.
+Mistress, as you are you.
+
+BUCKINGHAM:
+Away is not; fil
+
+
+
+MODEL: {'model_type': 'GRU', 'seq_len': 20, 'hidden_size': 128, 'num_layers': 2, 'fc_size': 128}
+TRAIN LOSS: 1.4028
+VAL ACC: 0.5610
+SAMPLE OUTPUT:
+To be or not to be might knows.
+
+PETER:
+More service is rosefully.
+
+ISABELLA:
+Then, shall not wanting
+my mazgrio'st, trulk short
+As swear for you.
+
+Gon:
+My lord, will, warrent, share
+They hath allowel they to little night, more I obey to
+that thou give consent knowns to us depart.
+
+CLIFFORD:
+Alas, you and I friend
+Wo
+
+
+
+MODEL: {'model_type': 'GRU', 'seq_len': 20, 'hidden_size': 256, 'num_layers': 1, 'fc_size': None}
+TRAIN LOSS: 1.4144
+VAL ACC: 0.5593
+SAMPLE OUTPUT:
+To be or not to behold;
+Till in revenge appursed with a judgment,
+O back'd our figins!
+
+CLARENCE:
+So more men, I workn to me, vaish'd with ease!
+
+CORIOLANUS:
+Off I said how dless'd beheld
+Five and from her tong,
+And a bookswo; boy,
+On thou dead, whom I?
+
+TYBALT:
+I, not to Lord Nay,
+Too: worted against
+Of proudly cons
+
+
+
+MODEL: {'model_type': 'GRU', 'seq_len': 20, 'hidden_size': 256, 'num_layers': 1, 'fc_size': 128}
+TRAIN LOSS: 1.4134
+VAL ACC: 0.5559
+SAMPLE OUTPUT:
+To be or not to be he with their smable, in despite! rudmems, truth to mark thing take a pain
+And he was what cippier?
+
+HARDID:
+Why, what I mean off we, we doth thus.
+
+QUEEN MANGBROT:
+Becausios years curses,-Camaniom,
+And discret hereaply mustayd bear. Make you, grieves
+With womb up the armsmand one bant and thy wint
+
+
+
+MODEL: {'model_type': 'GRU', 'seq_len': 20, 'hidden_size': 256, 'num_layers': 2, 'fc_size': None}
+TRAIN LOSS: 1.4452
+VAL ACC: 0.5499
+SAMPLE OUTPUT:
+To be or not to be
+toward him what hath undery my heart!
+
+MOPSCAG:
+He do you shall bitted wentors to puest!
+I may from one fiftelf,
+Kenting his neighbour, bone, let to succend yourder lamenting to strike. Now, let's niter.
+If that this is the burth but Walt, that way not stysword it lamentions
+Tell this of him But I 
+
+
+
+MODEL: {'model_type': 'GRU', 'seq_len': 20, 'hidden_size': 256, 'num_layers': 2, 'fc_size': 128}
+TRAIN LOSS: 1.4506
+VAL ACC: 0.5486
+SAMPLE OUTPUT:
+To be or not to beg, are nor slay,
+I not, what shout such awpoice?
+
+CAMILLO:
+I will daunt thy blood,
+That you rail yet thou bodished;
+Look the thinking baseha will be you.
+
+KING LEWIS:
+O, yet unluny are in his years from the partly will,
+Bning my happy dream;
+Trace an hence farver-far baster;
+Content my own marriages
+
+
+
+MODEL: {'model_type': 'GRU', 'seq_len': 30, 'hidden_size': 128, 'num_layers': 1, 'fc_size': None}
+TRAIN LOSS: 1.4633
+VAL ACC: 0.5532
+SAMPLE OUTPUT:
+To be or not to beam of hid;
+And the fire open an empraves; her brother's lovinst by hers--have so.
+Go eyes by nauret false these lord.
+
+WARWICK:
+Shalt the one and, Herld? Sit at Herrieted bended enganger reck an eyes
+in a think, and villition, but. Where with creets me, nor's Diden
+That hand, or thou wert, hal!
+To h
+
+
+
+MODEL: {'model_type': 'GRU', 'seq_len': 30, 'hidden_size': 128, 'num_layers': 1, 'fc_size': 128}
+TRAIN LOSS: 1.4251
+VAL ACC: 0.5597
+SAMPLE OUTPUT:
+To be or not to be you
+The world's hate work, whil this much,
+Our shadows such a rial hanged. Her up me.
+
+VINCENTIO:
+Ay me not well zellors me in winets,
+Chost and greet! my tern and congry.
+
+Peduca:
+And which we which's cause and unbrowe
+And which were made my Vilainia's suber of
+the Villinets and leads being and ca
+
+
+
+MODEL: {'model_type': 'GRU', 'seq_len': 30, 'hidden_size': 128, 'num_layers': 2, 'fc_size': None}
+TRAIN LOSS: 1.4031
+VAL ACC: 0.5650
+SAMPLE OUTPUT:
+To be or not to begicly grief, but shops at last, meat upon the very warrant.
+
+LEONTES:
+What, do him therevenest.
+
+Bud:
+Think, 'standen.
+
+LEONTES:
+Look love, I sweet, Hest way? if you
+I do what? how wixt summer,
+Here cannectict my lack outsas meation
+Of his store and of quited, or yee;
+I though he came; for I must be
+
+
+
+MODEL: {'model_type': 'GRU', 'seq_len': 30, 'hidden_size': 128, 'num_layers': 2, 'fc_size': 128}
+TRAIN LOSS: 1.3978
+VAL ACC: 0.5667
+SAMPLE OUTPUT:
+To be or not to be gon,
+That make no drum-date, good sortle.
+As I may he is honestant King sight.
+
+COMINIUS:
+Sir, my autiture, but here not you: amend herself
+Weik yet stills me into ssheep these sune since,
+Utto easts, which spit in the hisfard's mother.
+A many master scalious, come: but I imposs of brave, Romeo
+Be 
+
+
+
+MODEL: {'model_type': 'GRU', 'seq_len': 30, 'hidden_size': 256, 'num_layers': 1, 'fc_size': None}
+TRAIN LOSS: 1.4096
+VAL ACC: 0.5603
+SAMPLE OUTPUT:
+To be or not to be go hear:
+But let's soul great prove, as I thank,
+Faith-fescouries from she hath done with me;
+And no pupon's joison. How we keefle.
+
+KING EDWARD IV:
+No least crave and
+Unto.
+
+ROCHA:
+His law hour foot, good now a lies in my
+passed, bebey ushead, since awake,
+And gratus that three out
+On the loss wou
+
+
+
+MODEL: {'model_type': 'GRU', 'seq_len': 30, 'hidden_size': 256, 'num_layers': 1, 'fc_size': 128}
+TRAIN LOSS: 1.4080
+VAL ACC: 0.5592
+SAMPLE OUTPUT:
+To be or not to bear;
+And but in thy intercenous, I sheder.
+Thou art lepsersed with thye, out love!
+
+QUEEN ELIZABETH:
+Heaven, manausious for that made
+The less he on my housings, and prove mouse?
+Are you! nay, aal, brat and, and note:
+Is't mayst not fortune: my garments of the adlow her.
+
+TRANIO:
+Thus tory.
+
+Second:
+
+
+
+
+MODEL: {'model_type': 'GRU', 'seq_len': 30, 'hidden_size': 256, 'num_layers': 2, 'fc_size': None}
+TRAIN LOSS: 1.4301
+VAL ACC: 0.5542
+SAMPLE OUTPUT:
+To be or not to be a:
+Ney of my lieft, I mean you for my troou.
+
+GLUUCESTER:
+What's the leaves shall thereof your gentlemently would of the unturn;
+Nor my good Gloucester upon death;
+Till I am a words of my hearts bloody tolds with dusged.
+
+PROSPERC:
+Corous, gener as mys.
+
+LUCENTIO:
+Thy far your one is lies; and, of 
+
+
+
+MODEL: {'model_type': 'GRU', 'seq_len': 30, 'hidden_size': 256, 'num_layers': 2, 'fc_size': 128}
+TRAIN LOSS: 1.4411
+VAL ACC: 0.5502
+SAMPLE OUTPUT:
+To be or not to be plothe. Bold furthers: I am clup on a eye,
+Lortings, once fear and ta wine pale.
+
+QUEEN ELIZABETH:
+Petter, my sins; nersomerlowy, helle
+advantage. May love! honour sevenden whip you he had I common;
+And you' take his freen hath hopey beast'd his
+slight, than my world and cog not very noble.
+
+LADY A
+
+
+
+MODEL: {'model_type': 'GRU', 'seq_len': 50, 'hidden_size': 128, 'num_layers': 1, 'fc_size': None}
+TRAIN LOSS: 1.4550
+VAL ACC: 0.5558
+SAMPLE OUTPUT:
+To be or not to belied:
+He'll be here you art a minis; some, Bambs,
+And not lequidly stone, tears they lives increpty:
+And would she shall fine be it, but the banishment
+To eyes, he sworn? he ground's words speit use:
+Now, sir.
+
+YORK:
+For good lord, nor I apward:
+He would bless like his jaught from France our weart
+t
+
+
+
+MODEL: {'model_type': 'GRU', 'seq_len': 50, 'hidden_size': 128, 'num_layers': 1, 'fc_size': 128}
+TRAIN LOSS: 1.4080
+VAL ACC: 0.5594
+SAMPLE OUTPUT:
+To be or not to be
+was no gracious lord, did rather's any muar?
+
+DUKE VINCENTIO:
+O therefore, grave?
+
+FADY ALB:
+My hand, here?
+What is no peace says and detreatt of sweet
+She is great sure thrownary, loss,
+Must dukely, death, for welcome to watch,
+He my haste. Convys that night!
+
+KING EDWARD IV:
+Why. Verovege it be a
+
+
+
+MODEL: {'model_type': 'GRU', 'seq_len': 50, 'hidden_size': 128, 'num_layers': 2, 'fc_size': None}
+TRAIN LOSS: 1.3904
+VAL ACC: 0.5689
+SAMPLE OUTPUT:
+To be or not to be;
+For suit die he like a small's grant incumet!
+Weth, well, This a womange my death; one thy state
+Corish,--as impeod, when his silit's saint
+For shame that go so extremes are.
+
+HASTINGS:
+As this man I would a merro.
+
+FAMTLAND:
+Did you, he part, and this yone wats o''s grave
+Gave to cauch the cnown:
+
+
+
+MODEL: {'model_type': 'GRU', 'seq_len': 50, 'hidden_size': 128, 'num_layers': 2, 'fc_size': 128}
+TRAIN LOSS: 1.3896
+VAL ACC: 0.5673
+SAMPLE OUTPUT:
+To be or not to bear
+In thine ear a throne is slimars.
+
+PETRUCHIO:
+
+Good offended.
+
+CORIOLANUS:
+You hope is we do not bless.
+
+QUEEN ELIZABETH:
+Heaven which thou I be that is hard Tybalt.
+
+LUCENTIO:
+We do you I to your tongue worse: orn the issue,
+Respected thunder in thanks acters
+To begun to be out not thereon: as I
+
+
+
+MODEL: {'model_type': 'GRU', 'seq_len': 50, 'hidden_size': 256, 'num_layers': 1, 'fc_size': None}
+TRAIN LOSS: 1.3973
+VAL ACC: 0.5632
+SAMPLE OUTPUT:
+To be or not to be,
+Brought our lank his prisoner: of thee, our barns
+Which thou think worthy Will your vese's enemy.
+
+KING EDWARD IV:
+God same, we have boin alt,--we have no goodle;
+And one his some nake the Duke of Bolimb! your now,
+So, this is thee, a crown, let him destrance, God
+course, and your haste their clif
+
+
+
+MODEL: {'model_type': 'GRU', 'seq_len': 50, 'hidden_size': 256, 'num_layers': 1, 'fc_size': 128}
+TRAIN LOSS: 1.3948
+VAL ACC: 0.5643
+SAMPLE OUTPUT:
+To be or not to be
+waxs, bearing illius:
+O, I thank present a clief;
+Were his son, and term you came poors at been.
+
+GLOUCESTER:
+Beloves virtuous, is the unsheptle fetreth:
+A name tells, or else way, and tyble little
+Opour didst a bride in myself not speak.
+
+COMINIUS:
+I touch his no grace her drus.
+Not while'st the l
+
+
+
+MODEL: {'model_type': 'GRU', 'seq_len': 50, 'hidden_size': 256, 'num_layers': 2, 'fc_size': None}
+TRAIN LOSS: 1.4306
+VAL ACC: 0.5571
+SAMPLE OUTPUT:
+To be or not to be,
+No cheeking used to't: which he consides
+Of out for on the haly aid the parting death.
+
+Seen Marcias: aboase!
+They, comfort you than I have fourthand in double
+To not to them womance changery, yet I did
+Thou told thine in scall'st again withoud! which you love.
+
+CLAUDIO:
+So wife, here in young and
+
+
+
+MODEL: {'model_type': 'GRU', 'seq_len': 50, 'hidden_size': 256, 'num_layers': 2, 'fc_size': 128}
+TRAIN LOSS: 1.4349
+VAL ACC: 0.5557
+SAMPLE OUTPUT:
+To be or not to be
+vonishment and name, and this is served what:
+Thy hollow I would thank a day.
+And will with'mabantor, for your eyes, and the
+law of such secretive are nothing of mer my hands.
+Go: a or how's cot I am your glort.
+
+TRANIO:
+This three war-bark'd speld, die's is meet
+
+Roman:
+as thou wrong, hereible met

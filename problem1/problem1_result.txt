@@ -1,0 +1,332 @@
+Using device: cuda
+
+====================================
+Model: RNN, Sequence Length: 10
+====================================
+Epoch 1/30, Loss: 2.8990
+Epoch 2/30, Loss: 2.3323
+Epoch 3/30, Loss: 2.0839
+Epoch 4/30, Loss: 1.8938
+Epoch 5/30, Loss: 1.7586
+Epoch 6/30, Loss: 1.6278
+Epoch 7/30, Loss: 1.5229
+Epoch 8/30, Loss: 1.4360
+Epoch 9/30, Loss: 1.3158
+Epoch 10/30, Loss: 1.2106
+Epoch 11/30, Loss: 1.1156
+Epoch 12/30, Loss: 1.0514
+Epoch 13/30, Loss: 0.9904
+Epoch 14/30, Loss: 0.9152
+Epoch 15/30, Loss: 0.8238
+Epoch 16/30, Loss: 0.7710
+Epoch 17/30, Loss: 0.7070
+Epoch 18/30, Loss: 0.6390
+Epoch 19/30, Loss: 0.5849
+Epoch 20/30, Loss: 0.5153
+Epoch 21/30, Loss: 0.4593
+Epoch 22/30, Loss: 0.4233
+Epoch 23/30, Loss: 0.3700
+Epoch 24/30, Loss: 0.3324
+Epoch 25/30, Loss: 0.3069
+Epoch 26/30, Loss: 0.2734
+Epoch 27/30, Loss: 0.2406
+Epoch 28/30, Loss: 0.2157
+Epoch 29/30, Loss: 0.1942
+Epoch 30/30, Loss: 0.1677
+
+====================================
+Model: RNN, Sequence Length: 20
+====================================
+Epoch 1/30, Loss: 2.9095
+Epoch 2/30, Loss: 2.3456
+Epoch 3/30, Loss: 2.1108
+Epoch 4/30, Loss: 1.9267
+Epoch 5/30, Loss: 1.7751
+Epoch 6/30, Loss: 1.6486
+Epoch 7/30, Loss: 1.5305
+Epoch 8/30, Loss: 1.4314
+Epoch 9/30, Loss: 1.3337
+Epoch 10/30, Loss: 1.2382
+Epoch 11/30, Loss: 1.1540
+Epoch 12/30, Loss: 1.0815
+Epoch 13/30, Loss: 1.0022
+Epoch 14/30, Loss: 0.9291
+Epoch 15/30, Loss: 0.8607
+Epoch 16/30, Loss: 0.7935
+Epoch 17/30, Loss: 0.7374
+Epoch 18/30, Loss: 0.6742
+Epoch 19/30, Loss: 0.6150
+Epoch 20/30, Loss: 0.5699
+Epoch 21/30, Loss: 0.5222
+Epoch 22/30, Loss: 0.4746
+Epoch 23/30, Loss: 0.4339
+Epoch 24/30, Loss: 0.4039
+Epoch 25/30, Loss: 0.3635
+Epoch 26/30, Loss: 0.3402
+Epoch 27/30, Loss: 0.3044
+Epoch 28/30, Loss: 0.2794
+Epoch 29/30, Loss: 0.2496
+Epoch 30/30, Loss: 0.2347
+
+====================================
+Model: RNN, Sequence Length: 30
+====================================
+Epoch 1/30, Loss: 2.8955
+Epoch 2/30, Loss: 2.3713
+Epoch 3/30, Loss: 2.1245
+Epoch 4/30, Loss: 1.9294
+Epoch 5/30, Loss: 1.7900
+Epoch 6/30, Loss: 1.6470
+Epoch 7/30, Loss: 1.5393
+Epoch 8/30, Loss: 1.4457
+Epoch 9/30, Loss: 1.3268
+Epoch 10/30, Loss: 1.2275
+Epoch 11/30, Loss: 1.1431
+Epoch 12/30, Loss: 1.0521
+Epoch 13/30, Loss: 0.9841
+Epoch 14/30, Loss: 0.9082
+Epoch 15/30, Loss: 0.8444
+Epoch 16/30, Loss: 0.7822
+Epoch 17/30, Loss: 0.7131
+Epoch 18/30, Loss: 0.6470
+Epoch 19/30, Loss: 0.5839
+Epoch 20/30, Loss: 0.5477
+Epoch 21/30, Loss: 0.4977
+Epoch 22/30, Loss: 0.4639
+Epoch 23/30, Loss: 0.4127
+Epoch 24/30, Loss: 0.3783
+Epoch 25/30, Loss: 0.3481
+Epoch 26/30, Loss: 0.3141
+Epoch 27/30, Loss: 0.2980
+Epoch 28/30, Loss: 0.2613
+Epoch 29/30, Loss: 0.2368
+Epoch 30/30, Loss: 0.2085
+
+====================================
+Model: LSTM, Sequence Length: 10
+====================================
+Epoch 1/30, Loss: 3.1132
+Epoch 2/30, Loss: 2.6002
+Epoch 3/30, Loss: 2.3152
+Epoch 4/30, Loss: 2.0846
+Epoch 5/30, Loss: 1.9108
+Epoch 6/30, Loss: 1.7578
+Epoch 7/30, Loss: 1.6245
+Epoch 8/30, Loss: 1.5016
+Epoch 9/30, Loss: 1.3786
+Epoch 10/30, Loss: 1.2733
+Epoch 11/30, Loss: 1.1593
+Epoch 12/30, Loss: 1.0465
+Epoch 13/30, Loss: 0.9496
+Epoch 14/30, Loss: 0.8498
+Epoch 15/30, Loss: 0.7561
+Epoch 16/30, Loss: 0.6845
+Epoch 17/30, Loss: 0.5923
+Epoch 18/30, Loss: 0.5331
+Epoch 19/30, Loss: 0.4603
+Epoch 20/30, Loss: 0.4005
+Epoch 21/30, Loss: 0.3454
+Epoch 22/30, Loss: 0.2987
+Epoch 23/30, Loss: 0.2609
+Epoch 24/30, Loss: 0.2307
+Epoch 25/30, Loss: 0.2025
+Epoch 26/30, Loss: 0.1876
+Epoch 27/30, Loss: 0.1693
+Epoch 28/30, Loss: 0.1385
+Epoch 29/30, Loss: 0.1364
+Epoch 30/30, Loss: 0.1421
+
+====================================
+Model: LSTM, Sequence Length: 20
+====================================
+Epoch 1/30, Loss: 3.0346
+Epoch 2/30, Loss: 2.5074
+Epoch 3/30, Loss: 2.2437
+Epoch 4/30, Loss: 2.0492
+Epoch 5/30, Loss: 1.8904
+Epoch 6/30, Loss: 1.7530
+Epoch 7/30, Loss: 1.6193
+Epoch 8/30, Loss: 1.4942
+Epoch 9/30, Loss: 1.3851
+Epoch 10/30, Loss: 1.2767
+Epoch 11/30, Loss: 1.1745
+Epoch 12/30, Loss: 1.0832
+Epoch 13/30, Loss: 0.9817
+Epoch 14/30, Loss: 0.9097
+Epoch 15/30, Loss: 0.8203
+Epoch 16/30, Loss: 0.7395
+Epoch 17/30, Loss: 0.6653
+Epoch 18/30, Loss: 0.5990
+Epoch 19/30, Loss: 0.5354
+Epoch 20/30, Loss: 0.4772
+Epoch 21/30, Loss: 0.4233
+Epoch 22/30, Loss: 0.3705
+Epoch 23/30, Loss: 0.3229
+Epoch 24/30, Loss: 0.2854
+Epoch 25/30, Loss: 0.2497
+Epoch 26/30, Loss: 0.2174
+Epoch 27/30, Loss: 0.1880
+Epoch 28/30, Loss: 0.1630
+Epoch 29/30, Loss: 0.1389
+Epoch 30/30, Loss: 0.1256
+
+====================================
+Model: LSTM, Sequence Length: 30
+====================================
+Epoch 1/30, Loss: 3.0323
+Epoch 2/30, Loss: 2.5233
+Epoch 3/30, Loss: 2.2480
+Epoch 4/30, Loss: 2.0442
+Epoch 5/30, Loss: 1.8886
+Epoch 6/30, Loss: 1.7419
+Epoch 7/30, Loss: 1.6201
+Epoch 8/30, Loss: 1.5243
+Epoch 9/30, Loss: 1.4056
+Epoch 10/30, Loss: 1.2981
+Epoch 11/30, Loss: 1.2120
+Epoch 12/30, Loss: 1.1194
+Epoch 13/30, Loss: 1.0487
+Epoch 14/30, Loss: 0.9547
+Epoch 15/30, Loss: 0.8783
+Epoch 16/30, Loss: 0.8041
+Epoch 17/30, Loss: 0.7347
+Epoch 18/30, Loss: 0.6775
+Epoch 19/30, Loss: 0.6081
+Epoch 20/30, Loss: 0.5422
+Epoch 21/30, Loss: 0.5000
+Epoch 22/30, Loss: 0.4530
+Epoch 23/30, Loss: 0.4093
+Epoch 24/30, Loss: 0.3589
+Epoch 25/30, Loss: 0.3186
+Epoch 26/30, Loss: 0.2823
+Epoch 27/30, Loss: 0.2596
+Epoch 28/30, Loss: 0.2287
+Epoch 29/30, Loss: 0.1984
+Epoch 30/30, Loss: 0.1811
+
+====================================
+Model: GRU, Sequence Length: 10
+====================================
+Epoch 1/30, Loss: 2.9496
+Epoch 2/30, Loss: 2.3973
+Epoch 3/30, Loss: 2.1139
+Epoch 4/30, Loss: 1.9010
+Epoch 5/30, Loss: 1.7157
+Epoch 6/30, Loss: 1.5679
+Epoch 7/30, Loss: 1.4111
+Epoch 8/30, Loss: 1.3008
+Epoch 9/30, Loss: 1.1670
+Epoch 10/30, Loss: 1.0680
+Epoch 11/30, Loss: 0.9651
+Epoch 12/30, Loss: 0.8727
+Epoch 13/30, Loss: 0.7836
+Epoch 14/30, Loss: 0.6976
+Epoch 15/30, Loss: 0.6227
+Epoch 16/30, Loss: 0.5587
+Epoch 17/30, Loss: 0.4929
+Epoch 18/30, Loss: 0.4527
+Epoch 19/30, Loss: 0.4037
+Epoch 20/30, Loss: 0.3472
+Epoch 21/30, Loss: 0.3084
+Epoch 22/30, Loss: 0.2626
+Epoch 23/30, Loss: 0.2339
+Epoch 24/30, Loss: 0.2039
+Epoch 25/30, Loss: 0.1889
+Epoch 26/30, Loss: 0.1638
+Epoch 27/30, Loss: 0.1485
+Epoch 28/30, Loss: 0.1269
+Epoch 29/30, Loss: 0.1150
+Epoch 30/30, Loss: 0.1044
+
+====================================
+Model: GRU, Sequence Length: 20
+====================================
+Epoch 1/30, Loss: 2.9500
+Epoch 2/30, Loss: 2.4023
+Epoch 3/30, Loss: 2.1183
+Epoch 4/30, Loss: 1.8978
+Epoch 5/30, Loss: 1.7209
+Epoch 6/30, Loss: 1.5568
+Epoch 7/30, Loss: 1.4104
+Epoch 8/30, Loss: 1.2737
+Epoch 9/30, Loss: 1.1556
+Epoch 10/30, Loss: 1.0373
+Epoch 11/30, Loss: 0.9389
+Epoch 12/30, Loss: 0.8432
+Epoch 13/30, Loss: 0.7521
+Epoch 14/30, Loss: 0.6764
+Epoch 15/30, Loss: 0.5987
+Epoch 16/30, Loss: 0.5343
+Epoch 17/30, Loss: 0.4739
+Epoch 18/30, Loss: 0.4180
+Epoch 19/30, Loss: 0.3719
+Epoch 20/30, Loss: 0.3263
+Epoch 21/30, Loss: 0.2904
+Epoch 22/30, Loss: 0.2616
+Epoch 23/30, Loss: 0.2324
+Epoch 24/30, Loss: 0.2037
+Epoch 25/30, Loss: 0.1863
+Epoch 26/30, Loss: 0.1703
+Epoch 27/30, Loss: 0.1537
+Epoch 28/30, Loss: 0.1337
+Epoch 29/30, Loss: 0.1229
+Epoch 30/30, Loss: 0.1114
+
+====================================
+Model: GRU, Sequence Length: 30
+====================================
+Epoch 1/30, Loss: 2.9731
+Epoch 2/30, Loss: 2.4291
+Epoch 3/30, Loss: 2.1471
+Epoch 4/30, Loss: 1.9278
+Epoch 5/30, Loss: 1.7428
+Epoch 6/30, Loss: 1.5836
+Epoch 7/30, Loss: 1.4476
+Epoch 8/30, Loss: 1.3044
+Epoch 9/30, Loss: 1.1766
+Epoch 10/30, Loss: 1.0751
+Epoch 11/30, Loss: 0.9555
+Epoch 12/30, Loss: 0.8610
+Epoch 13/30, Loss: 0.7789
+Epoch 14/30, Loss: 0.7068
+Epoch 15/30, Loss: 0.6297
+Epoch 16/30, Loss: 0.5622
+Epoch 17/30, Loss: 0.5052
+Epoch 18/30, Loss: 0.4453
+Epoch 19/30, Loss: 0.3991
+Epoch 20/30, Loss: 0.3570
+Epoch 21/30, Loss: 0.3156
+Epoch 22/30, Loss: 0.2837
+Epoch 23/30, Loss: 0.2525
+Epoch 24/30, Loss: 0.2266
+Epoch 25/30, Loss: 0.2061
+Epoch 26/30, Loss: 0.1874
+Epoch 27/30, Loss: 0.1609
+Epoch 28/30, Loss: 0.1445
+Epoch 29/30, Loss: 0.1351
+Epoch 30/30, Loss: 0.1150
+
+Final Results:
+  model  sequence_length  train_loss  validation_loss  validation_accuracy  \
+0   RNN               10    0.167734         2.655995             0.438155   
+1   RNN               20    0.234703         2.566315             0.469474   
+2   RNN               30    0.208466         2.724255             0.473573   
+3  LSTM               10    0.142143         2.322380             0.450734   
+4  LSTM               20    0.125555         2.445356             0.469474   
+5  LSTM               30    0.181054         2.460601             0.486258   
+6   GRU               10    0.104392         2.616864             0.498952   
+7   GRU               20    0.111449         2.813543             0.496842   
+8   GRU               30    0.114993         2.625133             0.475687   
+
+   training_time_sec  parameters  model_size_MB  
+0           3.143399       33517       0.127857  
+1           2.562464       33517       0.127857  
+2           2.569121       33517       0.127857  
+3           2.853037      108013       0.412037  
+4           2.863058      108013       0.412037  
+5           2.871263      108013       0.412037  
+6           2.717732       83181       0.317310  
+7           2.708813       83181       0.317310  
+8           2.714767       83181       0.317310  
+
+Saved results to problem1_results.csv
