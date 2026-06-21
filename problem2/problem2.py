@@ -116,8 +116,9 @@ def train_model(model, train_loader, val_loader, device, epochs=5, lr=0.001):
     avg_train_loss = train_loss / len(train_loader)
     avg_val_loss = val_loss / len(val_loader)
     val_accuracy = correct / total
+    perplexity = torch.exp(torch.tensor(avg_val_loss)).item()
 
-    return avg_train_loss, avg_val_loss, val_accuracy, training_time
+    return avg_train_loss, avg_val_loss, val_accuracy, training_time, perplexity
 
 
 def generate_text(model, dataset, seed_text, device, length=300):
@@ -203,7 +204,7 @@ def main():
             fc_size=exp["fc_size"]
         ).to(device)
 
-        train_loss, val_loss, val_acc, train_time = train_model(
+        train_loss, val_loss, val_acc, train_time, perplexity = train_model(
             model,
             train_loader,
             val_loader,
@@ -234,6 +235,7 @@ def main():
             "train_loss": train_loss,
             "validation_loss": val_loss,
             "validation_accuracy": val_acc,
+            "perplexity": perplexity,
             "training_time_sec": train_time,
             "inference_time_sec": inference_time,
             "parameters": params,
@@ -246,6 +248,7 @@ def main():
             f"\n\nMODEL: {exp}\n"
             f"TRAIN LOSS: {train_loss:.4f}\n"
             f"VAL ACC: {val_acc:.4f}\n"
+            f"PERPLEXITY: {perplexity:.4f}\n"
             f"SAMPLE OUTPUT:\n{sample_text}\n"
         )
 
